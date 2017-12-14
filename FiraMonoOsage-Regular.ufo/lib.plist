@@ -6,11 +6,11 @@
 	<false/>
 	<key>com.schriftgestaltung.font.Family Alignment Zones</key>
 	<array>
-		<string><![CDATA[GSAlignmentZone <0x60800067a980>: (null) p:739 s:14]]></string>
-		<string><![CDATA[GSAlignmentZone <0x60800067a8c0>: (null) p:689 s:14]]></string>
-		<string><![CDATA[GSAlignmentZone <0x60800067ab00>: (null) p:527 s:14]]></string>
-		<string><![CDATA[GSAlignmentZone <0x60800047a480>: (null) p:0 s:-14]]></string>
-		<string><![CDATA[GSAlignmentZone <0x60800047db00>: (null) p:-202 s:-14]]></string>
+		<string><![CDATA[GSAlignmentZone <0x600000276280>: (null) p:739 s:14]]></string>
+		<string><![CDATA[GSAlignmentZone <0x608000c62580>: (null) p:689 s:14]]></string>
+		<string><![CDATA[GSAlignmentZone <0x608000c624c0>: (null) p:527 s:14]]></string>
+		<string><![CDATA[GSAlignmentZone <0x608000c62400>: (null) p:0 s:-14]]></string>
+		<string><![CDATA[GSAlignmentZone <0x608000c62380>: (null) p:-202 s:-14]]></string>
 	</array>
 	<key>com.schriftgestaltung.font.isFixedPitch</key>
 	<true/>
@@ -37,7 +37,7 @@
 	<key>com.schriftgestaltung.fontMasterID</key>
 	<string>20E751A9-904C-428F-A007-EA16B42CAFCD</string>
 	<key>com.schriftgestaltung.glyphOrder</key>
-	<false/>
+	<true/>
 	<key>com.schriftgestaltung.useNiceNames</key>
 	<true/>
 	<key>com.schriftgestaltung.weightValue</key>
@@ -155,24 +155,29 @@
 		<string>u104B0</string>
 		<string>u104B1</string>
 		<string>u104B2</string>
-		<string>u104B4</string>
 		<string>u104B3</string>
-		<string>u104BC</string>
+		<string>u104B4</string>
 		<string>u104BB</string>
-		<string>u104C2</string>
+		<string>u104BC</string>
 		<string>u104BD</string>
+		<string>u104BE</string>
+		<string>u104C2</string>
 		<string>u104C3</string>
 		<string>u104C4</string>
-		<string>u104C9</string>
+		<string>u104C5</string>
 		<string>u104C8</string>
+		<string>u104C9</string>
+		<string>u104CE</string>
 		<string>u104D0</string>
-		<string>u104D8</string>
 		<string>u104D1</string>
+		<string>u104D2</string>
+		<string>u104D3</string>
+		<string>u104D8</string>
 		<string>u104D9</string>
-		<string>u104DB</string>
 		<string>u104DA</string>
-		<string>u104E0</string>
+		<string>u104DB</string>
 		<string>u104DF</string>
+		<string>u104E0</string>
 		<string>u104EA</string>
 		<string>u104EB</string>
 		<string>u104F8</string>
