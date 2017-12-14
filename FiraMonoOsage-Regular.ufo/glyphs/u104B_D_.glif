@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u104BD" format="1">
+  <advance width="600"/>
+  <unicode hex="104BD"/>
+  <outline>
+    <contour>
+      <point x="240" y="548" type="line"/>
+      <point x="240" y="617" type="line"/>
+      <point x="15" y="617" type="line"/>
+      <point x="15" y="548" type="line"/>
+    </contour>
+    <component base="u104BC"/>
+    <contour>
+      <point x="304" y="689" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="304" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>9</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 16:41:19 +0000</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

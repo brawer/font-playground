@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u104D9" format="1">
+  <advance width="600"/>
+  <unicode hex="104D9"/>
+  <outline>
+    <component base="u104D8"/>
+    <component base="quotesingle" xOffset="538" yOffset="591" xScale="-0.8" yScale="-0.8"/>
+    <contour>
+      <point x="298" y="527" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="298" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>9</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 13:48:38 +0000</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

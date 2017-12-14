@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u104BC" format="1">
+  <advance width="600"/>
+  <unicode hex="104BC"/>
+  <outline>
+    <contour>
+      <point x="281" y="392" type="line"/>
+      <point x="537" y="689" type="line"/>
+      <point x="429" y="689" type="line"/>
+      <point x="141" y="337" type="line"/>
+    </contour>
+    <component base="uni04BA"/>
+    <component base="hookHELPER.case" xOffset="255"/>
+    <contour>
+      <point x="304" y="689" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="304" y="0" type="move" name="bottom"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>9</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-13 16:35:59 +0000</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>
