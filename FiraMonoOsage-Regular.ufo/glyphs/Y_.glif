@@ -15,19 +15,13 @@
       <point x="348" y="265" type="line"/>
     </contour>
     <contour>
-      <point x="303" y="689" type="move" name="top"/>
+      <point x="300" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="300" y="0" type="move" name="bottom"/>
+      <point x="303" y="689" type="move" name="top"/>
     </contour>
     <contour>
       <point x="20" y="689" type="move" name="topleft"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-12-13 10:16:24 +0000</string>
-    </dict>
-  </lib>
 </glyph>

@@ -24,16 +24,10 @@
       <point x="500" y="689" type="line"/>
     </contour>
     <contour>
-      <point x="350" y="689" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="300" y="0" type="move" name="bottom"/>
     </contour>
+    <contour>
+      <point x="350" y="689" type="move" name="top"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-12-13 11:03:25 +0000</string>
-    </dict>
-  </lib>
 </glyph>

@@ -30,16 +30,10 @@
       <point x="411" y="750" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="370" y="739" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="262" y="0" type="move" name="bottom"/>
     </contour>
+    <contour>
+      <point x="370" y="739" type="move" name="top"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-12-13 11:04:41 +0000</string>
-    </dict>
-  </lib>
 </glyph>

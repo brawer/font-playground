@@ -19,6 +19,9 @@
       <point x="188" y="250" type="line"/>
     </contour>
     <contour>
+      <point x="298" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
       <point x="548" y="0" type="move" name="ogonek"/>
     </contour>
     <contour>
@@ -27,14 +30,5 @@
     <contour>
       <point x="196" y="689" type="move" name="topleft"/>
     </contour>
-    <contour>
-      <point x="298" y="0" type="move" name="bottom"/>
-    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-12-13 10:16:24 +0000</string>
-    </dict>
-  </lib>
 </glyph>

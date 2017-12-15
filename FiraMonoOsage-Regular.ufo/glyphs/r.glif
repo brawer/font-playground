@@ -37,16 +37,14 @@
       <point x="448" y="344" type="line"/>
     </contour>
     <contour>
-      <point x="330" y="527" type="move" name="top"/>
+      <point x="229" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="229" y="0" type="move" name="bottom"/>
+      <point x="330" y="527" type="move" name="top"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-12-13 11:10:23 +0000</string>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>background</key>

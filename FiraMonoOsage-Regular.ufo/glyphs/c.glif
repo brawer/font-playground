@@ -32,19 +32,13 @@
       <point x="340" y="66" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="344" y="518" type="move" name="top"/>
-    </contour>
-    <contour>
       <point x="339" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
       <point x="339" y="0" type="move" name="bottomAttach"/>
     </contour>
+    <contour>
+      <point x="344" y="518" type="move" name="top"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-12-13 11:04:41 +0000</string>
-    </dict>
-  </lib>
 </glyph>

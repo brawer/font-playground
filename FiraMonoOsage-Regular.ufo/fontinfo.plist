@@ -29,6 +29,22 @@
 	<key>postscriptBlueValues</key>
 	<array>
 	</array>
+	<key>postscriptFamilyBlues</key>
+	<array>
+		<integer>-14</integer>
+		<integer>0</integer>
+		<integer>527</integer>
+		<integer>541</integer>
+		<integer>689</integer>
+		<integer>703</integer>
+		<integer>739</integer>
+		<integer>753</integer>
+	</array>
+	<key>postscriptFamilyOtherBlues</key>
+	<array>
+		<integer>-216</integer>
+		<integer>-202</integer>
+	</array>
 	<key>postscriptFontName</key>
 	<string>FiraMonoOsage-Regular</string>
 	<key>postscriptOtherBlues</key>

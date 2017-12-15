@@ -38,19 +38,13 @@
       <point x="316" y="466" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="300" y="-202" type="move" name="bottom "/>
+      <point x="300" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="300" y="0" type="move" name="bottom"/>
+      <point x="300" y="-202" type="move" name="bottom "/>
     </contour>
     <contour>
       <point x="300" y="527" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-12-13 10:43:35 +0000</string>
-    </dict>
-  </lib>
 </glyph>

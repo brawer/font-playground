@@ -51,19 +51,13 @@
       <point x="261" y="57" type="curve" smooth="yes"/>
     </contour>
     <contour>
-      <point x="512" y="-12" type="move" name="ogonek"/>
+      <point x="300" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="300" y="0" type="move" name="bottom"/>
+      <point x="512" y="-12" type="move" name="ogonek"/>
     </contour>
     <contour>
       <point x="292" y="527" type="move" name="top"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-12-13 11:04:41 +0000</string>
-    </dict>
-  </lib>
 </glyph>

@@ -40,10 +40,4 @@
       <point x="215" y="236" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2017-12-13 13:12:33 +0000</string>
-    </dict>
-  </lib>
 </glyph>
