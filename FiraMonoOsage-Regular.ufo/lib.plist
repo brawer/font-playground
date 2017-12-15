@@ -24,6 +24,7 @@
 	<key>public.glyphOrder</key>
 	<array>
 		<string>A</string>
+		<string>Alpha-latin</string>
 		<string>B</string>
 		<string>C</string>
 		<string>D</string>
@@ -88,38 +89,38 @@
 		<string>Omega</string>
 		<string>alpha</string>
 		<string>psi</string>
-		<string>asterisk</string>
-		<string>backslash</string>
-		<string>periodcentered</string>
-		<string>bullet</string>
-		<string>colon</string>
+		<string>period</string>
 		<string>comma</string>
+		<string>colon</string>
+		<string>semicolon</string>
 		<string>ellipsis</string>
 		<string>exclam</string>
 		<string>exclamdown</string>
-		<string>numbersign</string>
-		<string>period</string>
 		<string>question</string>
 		<string>questiondown</string>
-		<string>quotedbl</string>
-		<string>quotesingle</string>
-		<string>semicolon</string>
+		<string>periodcentered</string>
+		<string>bullet</string>
+		<string>asterisk</string>
+		<string>numbersign</string>
 		<string>slash</string>
-		<string>emdash</string>
-		<string>endash</string>
-		<string>figuredash</string>
+		<string>backslash</string>
 		<string>hyphen</string>
 		<string>uni00AD</string>
-		<string>guillemotleft</string>
-		<string>guillemotright</string>
-		<string>guilsinglleft</string>
-		<string>guilsinglright</string>
+		<string>endash</string>
+		<string>emdash</string>
+		<string>figuredash</string>
+		<string>quotesinglbase</string>
 		<string>quotedblbase</string>
 		<string>quotedblleft</string>
 		<string>quotedblright</string>
 		<string>quoteleft</string>
 		<string>quoteright</string>
-		<string>quotesinglbase</string>
+		<string>guillemotleft</string>
+		<string>guillemotright</string>
+		<string>guilsinglleft</string>
+		<string>guilsinglright</string>
+		<string>quotedbl</string>
+		<string>quotesingle</string>
 		<string>space</string>
 		<string>acutecomb</string>
 		<string>uni0304</string>
@@ -161,6 +162,8 @@
 		<string>u104EB</string>
 		<string>u104F8</string>
 		<string>u104F9</string>
+		<string>u104B7</string>
+		<string>u104B8</string>
 	</array>
 </dict>
 </plist>

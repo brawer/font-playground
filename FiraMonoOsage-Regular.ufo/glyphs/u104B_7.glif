@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u104B7" format="1">
+  <advance width="600"/>
+  <unicode hex="104B7"/>
+  <outline>
+    <component base="Alpha-latin"/>
+    <contour>
+      <point x="298" y="0" type="move" name="bottom"/>
+    </contour>
+    <contour>
+      <point x="277" y="689" type="move" name="top"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.ColorIndex</key>
+      <integer>9</integer>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2017-12-15 09:22:55 +0000</string>
+      <key>public.markColor</key>
+      <string>0.98,0.36,0.67,1</string>
+    </dict>
+  </lib>
+</glyph>

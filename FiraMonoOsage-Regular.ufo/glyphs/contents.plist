@@ -4,6 +4,8 @@
 <dict>
 	<key>A</key>
 	<string>A_.glif</string>
+	<key>Alpha-latin</key>
+	<string>A_lpha-latin.glif</string>
 	<key>B</key>
 	<string>B_.glif</string>
 	<key>C</key>
@@ -206,6 +208,10 @@
 	<string>u104B_3.glif</string>
 	<key>u104B4</key>
 	<string>u104B_4.glif</string>
+	<key>u104B7</key>
+	<string>u104B_7.glif</string>
+	<key>u104B8</key>
+	<string>u104B_8.glif</string>
 	<key>u104BB</key>
 	<string>u104B_B_.glif</string>
 	<key>u104BC</key>
